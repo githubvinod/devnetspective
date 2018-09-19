@@ -1,0 +1,22 @@
+---
+title: 'How Doctors Use Technology to Treat More Patients'
+date: Wed, 15 Aug 2018 17:32:49 +0000
+draft: false
+tags: [A. Ahmad, EHR, Healthcare IT, The Healthcare Guys]
+---
+
+The mandated implementation of electronic health records systems - EHRs for short - has drastically changed the way doctors manage their practices. The inherent efficiencies of digitally tracking patients have led to the ability for doctors to see more patients in a given amount of time. Furthermore, it lets them forgo many of the formalities and redundancies associated with traditional medical care in exchange for a “hit the ground running” approach to patient care and outcomes.
+
+However, the trouble with this new model is that doctors are expected to do more thanks to technology, despite the vast majority of their responsibilities remaining virtually unchanged. Simply put, doctors don’t have enough hours in the day to spend an equal amount of time managing patient data as they do managing patient care. While it's true EHR helps doctors to treat more people, the only way they can keep up is to utilize additional technology in the process.
+
+An example of this is the growing demand for transcription services in the medical profession. In particular, [medical transcription services](https://www.transcriptionoutsourcing.net/medical-transcription-services/) which are HIPAA-compliant and able to work with virtually any EHR or EMR system. Doctors need to enter more patient data into their records than in years past, but simply don’t have the time to keep notes let alone enter data. Nurses were once the go-to for this kind of legwork, but their services are better used for directly treating patients. The only sensible solution is for doctors to outsource the data entry to a reliable third-party.
+
+It’s therefore no surprise that physicians across the map are currently being courted by services offering to provide reliable and compliant transcription. In fact it’s not uncommon for doctors and other medical professionals to be [contacted via email and social media](https://www.singlegrain.com/customer-acquisition/multi-channel-customer-acquisition/) by transcription services. If you’re someone in the medical field, chances are you’ve been asked if you need help keeping accurate track of patient data.
+
+Another way doctors are [using technology to treat more patients](https://www.healthcareguys.com/newscenter/industry-voicesthe-unique-reason-cancer-patients-have-the-most-to-benefit-from-telemedicine/) without sacrificing on the quality of care is through telemedicine. Simply put, doctors are seeing patients who may be tens or hundreds of miles away from them, and are doing so through tablets and smartphones. While this is not a suitable approach for all cases of poor health, it’s a practical outlet for the numerous instances where a physical visit is not necessary to diagnose a problem and prescribe treatment.
+
+In the years ahead, who knows what sorts of technologies will help doctors to treat more patients. Perhaps we will develop [robotic technology](https://www.mayoclinic.org/tests-procedures/robotic-surgery/about/pac-20394974) equipped with sophisticated artificial intelligence making it capable of performing routine surgeries? A single doctor monitoring several of these devices could, in theory, succeed in operating on three patients in a single block of time.
+
+Or, perhaps avatar technology will reach a point where a doctor can have a reliable version of his or her own consciousness available to patients after hours. Similar to a web chat with A.I., this avatar can engage in a conversation with a patient to determine the problem, provide some basic treatment solutions, and organize the data so that the real-life doctor can cut to the chase the next day.
+
+More technology means the ability to get more done than before. For doctors, this can be a blessing and a curse, as much of what they still do involves meticulous techniques no software or hardware is yet able to perform. The answer is for doctors to develop a tech system which effectively distributes required tasks so that they can focus on the ultimate goal, which is improving patient wellness and ensuring positive patient outcomes.
