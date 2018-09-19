@@ -1,41 +1,13 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
-	<header id="header" class="header{{ if .Site.Params.cover }} has-cover{{ end }}">
-		<div class="inner">
-			<a class="header-title" href="{{ .Site.BaseURL }}">
-				<h1 class="header-name">{{ .Site.Title }}</h1>
-				{{ if .Site.Params.Subtitle }}
-					<span class="header-description">{{ .Site.Params.Subtitle }}</span>
-				{{ end }}
-			</a>
-		</div>
-		{{ if .Site.Params.cover }}
-		<div class="header-cover blured-image" style="background-color: #19a0d7; background-image: url(/images/accessory-eyeglasses-eyewear-947885-700x551.jpg)" data-src="{{ .Site.BaseURL }}/{{ .Site.Params.cover }}"></div>
-		{{ end }}
-	</header>
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-	<div id="post-index" class="container">
+{{ partial "short-text" .Params.blurb}}
 
-		<main class="content" role="main">
+{{ partial "2-up" .Params }}
 
-			<div class="post-list">
-				<div id="push">
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
 
+{{ partial "blog" . }}
 
- 
-            {{ $paginator := .Paginate (where .Site.Pages "Section" "in" .Site.Params.mainSections) }}
-
-			{{ range $index, $page := $paginator.Pages }}
-			  {{ .Render "li" }}
-			{{ end }}
-
-				</div>
-			</div>
-
-			{{ partial "pagination.html" (dict "paginator" $paginator "site" .Site ) }}
-
-		</main>
-
-	</div>
-
-{{ partial "footer.html" . }}
+{{ end }}

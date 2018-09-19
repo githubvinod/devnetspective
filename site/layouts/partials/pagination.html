@@ -1,12 +1,18 @@
-<nav id="pagination" class="pagination" role="pagination">
-	<div class="inner">
-	{{if .paginator.HasPrev}}
-    <a class="pagination-item pagination-next" href="{{ trim .site.BaseURL "/" }}{{ .paginator.Prev.URL }}"><i class="fa fa-chevron-left"></i> <span>Previous</span></a>
-	{{end}}
-		<span class="pagination-info">Page {{ .paginator.PageNumber }} of {{.paginator.TotalPages}}</span>
-	{{if .paginator.HasNext}}
-    <a class="pagination-item pagination-prev" href="{{ trim .site.BaseURL "/" }}{{ .paginator.Next.URL }}"><span>Next</span> <i class="fa fa-chevron-right"></i></a>
-	{{end}}
-		<div class="clear"></div>
-	</div>
+{{ if gt .Paginator.TotalPages 1 }}
+ 
+<nav class="cf pa3">
+    {{ if .Paginator.HasNext }}
+    <a class="fl dib link dim black f6 f5-ns b pa2" title="Next Page" href="{{ .Paginator.Next.URL }}">
+        &larr; Previous
+    </a>
+    {{ end }}
+    <div class="pagination">
+        {{ if .Paginator.HasPrev }}
+        <a class="fl dib link dim black f6 f5-ns b pa2" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
+            Next &rarr;
+        </a>
+        {{ end }}
+    </div>
 </nav>
+ 
+{{ end }}
