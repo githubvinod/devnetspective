@@ -1,4 +1,4 @@
-baseURL = "https://devlhealthcareguys.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Healthcare Guys"
 theme = "hugo-theme-bleak-master"
@@ -12,9 +12,4 @@ logo = "/images/Healthcareguys-logo.png"
 [taxonomies]
 author = "authors"
 
-
-[staticman]
-  endpoint = "https://api.staticman.net/v2/entry/"
-  username = "pittosh"
-  repository = "devlhealthcareguys"
-  branch = "master"
+ 
