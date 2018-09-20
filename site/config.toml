@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://devlhealthcareguys.netlify.com/"
 languageCode = "en-us"
 title = "Healthcare Guys"
 theme = "hugo-theme-bleak-master"
@@ -11,5 +11,6 @@ logo = "/images/Healthcareguys-logo.png"
 
 [taxonomies]
 author = "authors"
+
 
  
