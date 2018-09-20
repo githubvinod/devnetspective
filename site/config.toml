@@ -1,4 +1,4 @@
-baseURL = "https://devlhealthcareguys.netlify.com/"
+baseURL = "https://stagehealthcareguys.netlify.com/"
 languageCode = "en-us"
 title = "Healthcare Guys"
 theme = "hugo-theme-bleak-master"
