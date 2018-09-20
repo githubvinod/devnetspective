@@ -1,4 +1,3 @@
-baseURL = "/"
 languageCode = "en-us"
 title = "Healthcare Guys"
 theme = "hugo-theme-bleak-master"
