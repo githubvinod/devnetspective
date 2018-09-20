@@ -1,3 +1,20 @@
-baseurl = "/"
+baseURL = "https://devlhealthcareguys.netlify.com/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Healthcare Guys"
+theme = "hugo-theme-bleak-master"
+cover = "/images/accessory-eyeglasses-eyewear-947885-700x551.jpg"
+
+
+[params]
+subtitle = "Exploring Healthcare & Technology Business"
+logo = "/images/Healthcareguys-logo.png"
+
+[taxonomies]
+author = "authors"
+
+
+[staticman]
+  endpoint = "https://api.staticman.net/v2/entry/"
+  username = "pittosh"
+  repository = "devlhealthcareguys"
+  branch = "master"

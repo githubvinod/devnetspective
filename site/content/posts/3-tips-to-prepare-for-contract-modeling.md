@@ -1,0 +1,34 @@
+---
+title: '3 Tips to Prepare For Contract Modeling'
+url:  2018/08/28/3-tips-to-prepare-for-contract-modeling/
+date: Tue, 28 Aug 2018 02:54:21 +0000
+draft: false
+tags: [A. Ahmad, Contract Modeling]
+keywords : Medical Technology, Healthcare & Government IT
+description : For healthcare organizations struggling to maintain consistent revenue integrity within their revenue cycle, effective contract modeling may be the best long-term solution. Not only does contract modeling allow providers to evaluate the performance of their current payer contracts, but, more importantly, it allows providers to develop a payer strategy that helps drive those payer contracts to deliver more predictable results and reimbursement.
+categories : [Contract Modeling]
+image : clinical-coffee-cup-computer-1050306-1170x500.jpg
+share :   2018/08/28/3-tips-to-prepare-for-contract-modeling/
+safeURL : 2018/08/28/3-tips-to-prepare-for-contract-modeling/
+
+---
+
+For healthcare organizations struggling to maintain consistent revenue integrity within their revenue cycle, [effective contract modeling](https://www.pmmconline.com/solutions/payer-contract-modeling) may be the best long-term solution. Not only does contract modeling allow providers to evaluate the performance of their current payer contracts, but, more importantly, it allows providers to develop a payer strategy that helps drive those payer contracts to deliver more predictable results and reimbursement. But there’s a catch… The data behind the contracts _must_ be accurate. Ask yourself, ‘Am I getting reimbursed accurately for the services provided?’ If not, then why? After all, what’s the point of investing all that time and money into preparing for contract changes/adjustments unless your organization is absolutely certain that the data you’re using to justify the negotiations is accurate? This is why revenue integrity and accuracy go hand-in-hand; one cannot be sustained without the other. For example, without the assurance of accurate data, you don’t know if the terms you’re negotiating are substantiated so you could be digging yourself into a deeper hole than you were in before negotiations began. In addition, payer contracts are becoming more and more complex as payer policies continue to change and adapt. Given all this movement, without having a strategy and software solution in place to support the modeling, hospitals could be at a significant disadvantage for future reimbursement. So how can organizations work to increase the accuracy of their contract modeling? Here are the 3 steps toward maintaining accurate data:
+
+*   Removing Departmental Siloes
+*   Measuring Payer Performance
+*   Quantifying Payer Performance
+
+**Removal of Departmental Siloes** For many hospitals looking to increase their data accuracy, a good starting point is to (re)evaluate the current communication process among the various departments of the revenue cycle. Often times, hospitals find themselves storing data via multiple systems, causing inconsistent reporting across the revenue cycle. What’s the alternative? A single integrated system used for storing data throughout the entire revenue cycle. Not only does this allow departments to easily communicate regarding the data, but it also dramatically lowers the likelihood of data errors, missed reimbursement, and isolated decisions that don’t look at the full revenue picture. For example, in most cases, Managed Care is in charge of [negotiating new payer contracts](https://www.pmmconline.com/solutions/payer-negotiations-strategic-pricing), so it’s crucial that they be connected to whoever is in charge of contract governance. They need to know where underpayments and denial trends exist before payers are compared against each other. This enables the team to leverage their power to negotiate more favorable rates with the payer. **Importance of Measuring Payer Performance** Once communication between departments has been streamlined through a single data system, the next step is to use the data to evaluate how the payers are performing under the current contract. To help get us started, here are two common examples of performance measurement:
+
+*   Historical Data v Current Data
+*   Commercial Payers v Other Commercial Payers (i.e. Blue Cross vs. Aetna)
+
+Using a data visualization system, organizations can use the data gathered from these measurements to generate a more comprehensive overview of their current financial performance. Not only does data visualization allow users to see a high-level overview of payer performance but it allows them to drill down into each service area within the chart/graph to determine the true root-cause of the issue. For example, a dashboard overview might show the user which payers are generating the highest denial rates, but by drilling down to those specific payers, the user could identify whether or not a payer has a history of denying a certain type of claim or if it was a simple mistake made internally. This type of in-depth analysis can save hospitals time and money by providing an invaluable insight to providers (especially Managed Care) looking to gain control over their collections. As a result, hospitals can confidently rely on this accurate data to take larger risks that often yield to higher rewards. **How to Measure Payer Performance** Moving forward, it’s not enough for your organization to measure the payer’s performance if they can’t be quantified in terms that everyone within the organization uses. In other words, if two people from the same hospital use a different set of metrics to measure their payer’s performance, there’s a much higher chance of data being misinterpreted which could dismantle any efforts made toward modeling future contracts. That’s why it’s important that hospitals implement a scorecard to create consistent means for measuring the payer’s performance. Here are 4 common metrics of a scorecard used by many hospitals:
+
+*   Year-over-year collections
+*   Collections by payer
+*   Collections by month
+*   Collections by service code
+
+Through the use of a scorecard, hospitals can engage in more proactive negotiations with the payer by presenting accurate data metrics to justify future contract terms and mapping out any areas that are falling short of expectations. This allows hospitals to focus on why it did not meet expectations and then use that data to be better prepared for the next set of payer negotiations. From a revenue cycle management standpoint, accurate data is the key to maintaining revenue integrity; everything else comes secondary. When a hospital has assurance that their data is accurate and payer contract terms are properly negotiated, they have greater confidence in their ability to set charges, ultimately leading to improved price transparency and consumerism.
