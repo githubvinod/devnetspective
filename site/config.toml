@@ -12,5 +12,48 @@ logo = "/images/Healthcareguys-logo.png"
 [taxonomies]
 author = "authors"
 
+[menu]
+    [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "https://www.netspective.media"
+    weight     = 1
+    [[menu.main]]
+    identifier = "cartoon"
+    name       = "Cartoon of the month"
+    url        = "/cartoon/"
+    weight     = 2
+    [[menu.main]]
+    identifier = "infographics"
+    name       = "Infographics"
+    url        = "/infographics/"
+    weight     = 3
+     [[menu.main]]
+    identifier = "videos"
+    name       = "Videos"
+    url        = "/videos/"
+    weight     = 4
+    [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "https://www.netspective.media/#contact-us"
+    weight     = 5
+     [[menu.main]]
+    identifier = "write-for-us"
+    name       = "Write for us"
+    url        = "/write-for-us"
+    weight     = 6
+    [[menu.main]]
+    identifier = "press-release-package"
+    name       = "Press release package"
+    url        = "/press-release-package"
+    weight     = 7
+
+
+ 
+      
+
+
+
 
  
