@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Healthcare Guys"
 theme = "hugo-theme-bleak-master"
 cover = "/images/accessory-eyeglasses-eyewear-947885-700x551.jpg"
+RelativeURLs=true
+CanonifyURLs=true
 
 
 [params]
