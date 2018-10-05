@@ -1,5 +1,3 @@
-baseURL = "https://stagehealthcareguys.netlify.com/"
-
 [params]
   # Warning Keys are case sensitives
   Subtitle = "Your subtitle !"
